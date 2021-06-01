@@ -1,0 +1,10 @@
+INSERT INTO TB_CLIENT(name, cpf, income, birth_date, children) VALUES('Gabriel', '741.659.600-98', 8000, '1995-08-20 00:00:00', 1);
+INSERT INTO TB_CLIENT(name, cpf, income, birth_date, children) VALUES('Murillo', '346.343.480-63', 14000, '1998-03-12 00:00:00', 2);
+INSERT INTO TB_CLIENT(name, cpf, income, birth_date, children) VALUES('Jorge', '346.343.480-63', 6200, '1998-10-10 00:00:00', 3);
+INSERT INTO TB_CLIENT(name, cpf, income, birth_date, children) VALUES('Lucas', '159.573.690-55', 10000, '1992-08-20 00:00:00', 4);
+INSERT INTO TB_CLIENT(name, cpf, income, birth_date, children) VALUES('Talles', '346.502.320-07', 1500, '2001-02-09 00:00:00', 5);
+INSERT INTO TB_CLIENT(name, cpf, income, birth_date, children) VALUES('Saulo', '105.359.370-83', 9000, '1990-11-29 00:00:00', 6);
+INSERT INTO TB_CLIENT(name, cpf, income, birth_date, children) VALUES('Renan', '802.881.780-76', 3000, '1985-12-01 00:00:00', 5);
+INSERT INTO TB_CLIENT(name, cpf, income, birth_date, children) VALUES('Fabio', '721.170.200-11', 13000, '1995-08-17 00:00:00', 3);
+INSERT INTO TB_CLIENT(name, cpf, income, birth_date, children) VALUES('Rafael', '721.170.200-11', 15000, '1982-06-14 00:00:00', 2);
+INSERT INTO TB_CLIENT(name, cpf, income, birth_date, children) VALUES('Caique', '190.749.220-82', 12000, '1990-07-12 00:00:00', 1);
